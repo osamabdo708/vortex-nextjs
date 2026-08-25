@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "VORTEX | Custom Software, Web & Mobile Development Company",
+    "description": "VORTEX designs and builds custom software, web, mobile, cloud and AI-driven solutions for businesses worldwide. Partner with our expert team for IT consulting, ERP/CRM systems and digital transformation.",
+    "keywords": [
+      "software development company",
+      "custom software solutions",
+      "web development",
+      "mobile app development",
+      "cloud and DevOps services",
+      "IT consulting",
+      "digital transformation",
+      "AI and machine learning solutions",
+      "ERP and CRM development",
+      "API integration services",
+      "VORTEX",
+      "Palestine software company"
+    ]
+  },
+  "a11y": {
+    "skipToContent": "Skip to main content"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "companies": "Companies",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "Software Solutions Excellence",
+    "title": "Transform Your Business",
+    "subtitle": "with Cutting-Edge Software Solutions",
+    "description": "We deliver innovative technology solutions that drive growth, efficiency, and success for businesses worldwide. Our team of expert developers and designers work tirelessly to bring your vision to life with modern, scalable, and secure applications.",
+    "cta": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solutions tailored to your business needs",
+    "softwareDev": {
+      "title": "Software Development Services",
+      "description": "Custom software tailored to your needs: web apps, mobile apps, desktop applications, API development & database optimization."
+    },
+    "webDesign": {
+      "title": "Web Design & Development",
+      "description": "Building your digital presence with UI/UX design, frontend/backend development, CMS websites, e-commerce platforms & landing pages."
+    },
+    "mobileSolutions": {
+      "title": "Mobile Solutions",
+      "description": "Native & cross-platform mobile apps, Progressive Web Apps (PWA), app maintenance & store optimization."
+    },
+    "cloudDevOps": {
+      "title": "Cloud & DevOps Services",
+      "description": "Cloud migration, CI/CD pipelines, Docker & Kubernetes, server monitoring & performance optimization."
+    },
+    "itConsulting": {
+      "title": "IT Consulting & Digital Transformation",
+      "description": "Technology strategy, process automation, digital transformation roadmaps, business intelligence & tech audits."
+    },
+    "aiData": {
+      "title": "AI, Data, and Automation",
+      "description": "AI/ML model development, data analysis & visualization, chatbots, NLP & predictive analytics."
+    },
+    "erpCrm": {
+      "title": "ERP, CRM, and Business Software",
+      "description": "Custom ERP & CRM development, system integration, inventory/HR/finance management & analytics dashboards."
+    },
+    "integration": {
+      "title": "Integration & API Services",
+      "description": "Third-party API integration, payment gateways, CRMs, custom middleware, webhooks & microservices."
+    }
+  },
+  "features": {
+    "title": "Why Choose VORTEX",
+    "subtitle": "Excellence in Every Solution",
+    "innovation": {
+      "title": "Innovation First",
+      "description": "Leveraging the latest technologies and industry best practices to create future-ready solutions. We stay ahead of technology trends to ensure your applications are built with cutting-edge tools and frameworks."
+    },
+    "expertise": {
+      "title": "Expert Team",
+      "description": "Skilled professionals with years of industry experience in software development, cloud computing, and digital transformation. Our team brings diverse expertise across multiple technologies and industries."
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Round-the-clock technical assistance and customer support to ensure your success. Our dedicated support team is always available to help resolve issues, answer questions, and provide ongoing maintenance."
+    },
+    "quality": {
+      "title": "Quality Assured",
+      "description": "Rigorous testing, code reviews, and quality control processes in every project. We follow industry standards and best practices to deliver reliable, secure, and maintainable software solutions."
+    }
+  },
+  "contact": {
+    "title": "Ready to Start Your Project?",
+    "subtitle": "Get in touch with our team today and let's discuss how we can help transform your business with innovative technology solutions",
+    "cta": "Contact Us"
+  },
+  "clients": {
+    "title": "Trusted by Leading Companies",
+    "subtitle": "Join hundreds of satisfied clients who trust our services"
+  },
+  "footer": {
+    "description": "Leading software solutions provider delivering innovation and excellence. We partner with businesses worldwide to build powerful digital solutions that drive growth and success.",
+    "servicesHeading": "Services",
+    "moreServicesHeading": "More Services",
+    "contactHeading": "Contact",
+    "rights": "All rights reserved."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "cta": "Return to Home"
+  }
+}
